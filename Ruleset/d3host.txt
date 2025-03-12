@@ -1,0 +1,398 @@
+# Title: d3Host List by d3ward
+# Expires: 1 days
+# Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services
+# Homepage: https://github.com/d3ward/toolz
+# License: CC BY-NC-SA
+# Source: https://github.com/d3ward/toolz/blob/master/src/d3host.txt
+
+# This list cover all the tests on https://d3ward.github.io/toolz/adblock
+# Type : Stable
+# Entries : 132
+# Updated On: 8/5/2024
+# Created by: d3ward
+
+#============ Ads =============
+
+# --- Amazon
+HOST-SUFFIX,adtago.s3.amazonaws.com
+HOST-SUFFIX,analyticsengine.s3.amazonaws.com
+HOST-SUFFIX,analytics.s3.amazonaws.com
+HOST-SUFFIX,advice-ads.s3.amazonaws.com
+
+# --- Google Ads
+HOST-SUFFIX,pagead2.googlesyndication.com
+HOST-SUFFIX,adservice.google.com
+HOST-SUFFIX,pagead2.googleadservices.com
+HOST-SUFFIX,afs.googlesyndication.com
+
+# --- Doubleclick.net
+HOST-SUFFIX,stats.g.doubleclick.net
+HOST-SUFFIX,ad.doubleclick.net
+HOST-SUFFIX,static.doubleclick.net
+HOST-SUFFIX,m.doubleclick.net
+HOST-SUFFIX,mediavisor.doubleclick.net
+
+# --- Adcolony
+HOST-SUFFIX,ads30.adcolony.com
+HOST-SUFFIX,adc3-launch.adcolony.com
+HOST-SUFFIX,events3alt.adcolony.com
+HOST-SUFFIX,wd.adcolony.com
+
+# --- Media.net
+HOST-SUFFIX,static.media.net
+HOST-SUFFIX,media.net
+HOST-SUFFIX,adservetx.media.net
+
+
+#========= Analytics ==========
+
+# --- Google Analytics
+HOST-SUFFIX,analytics.google.com
+HOST-SUFFIX,click.googleanalytics.com
+HOST-SUFFIX,google-analytics.com
+HOST-SUFFIX,ssl.google-analytics.com
+
+# --- Hotjar
+HOST-SUFFIX,adm.hotjar.com
+HOST-SUFFIX,identify.hotjar.com
+HOST-SUFFIX,insights.hotjar.com
+HOST-SUFFIX,script.hotjar.com
+HOST-SUFFIX,surveys.hotjar.com
+HOST-SUFFIX,careers.hotjar.com
+HOST-SUFFIX,events.hotjar.io
+
+# --- MouseFlow
+HOST-SUFFIX,mouseflow.com
+HOST-SUFFIX,cdn.mouseflow.com
+HOST-SUFFIX,o2.mouseflow.com
+HOST-SUFFIX,gtm.mouseflow.com
+HOST-SUFFIX,api.mouseflow.com
+HOST-SUFFIX,tools.mouseflow.com
+HOST-SUFFIX,cdn-test.mouseflow.com
+
+# --- FreshWorks
+HOST-SUFFIX,freshmarketer.com
+HOST-SUFFIX,claritybt.freshmarketer.com
+HOST-SUFFIX,fwtracks.freshmarketer.com
+
+# --- Luckyorange
+HOST-SUFFIX,luckyorange.com
+HOST-SUFFIX,api.luckyorange.com
+HOST-SUFFIX,realtime.luckyorange.com
+HOST-SUFFIX,cdn.luckyorange.com
+HOST-SUFFIX,w1.luckyorange.com
+HOST-SUFFIX,upload.luckyorange.net
+HOST-SUFFIX,cs.luckyorange.net
+HOST-SUFFIX,settings.luckyorange.net
+
+# --- Stats WP Plugin
+HOST-SUFFIX,stats.wp.com
+
+
+#======= Error Trackers =======
+
+# --- Bugsnag
+HOST-SUFFIX,notify.bugsnag.com
+HOST-SUFFIX,sessions.bugsnag.com
+HOST-SUFFIX,api.bugsnag.com
+HOST-SUFFIX,app.bugsnag.com
+
+# --- Sentry
+HOST-SUFFIX,browser.sentry-cdn.com
+HOST-SUFFIX,app.getsentry.com
+
+
+#====== Social Trackers =======
+
+# --- Facebook
+HOST-SUFFIX,pixel.facebook.com
+HOST-SUFFIX,an.facebook.com
+
+# --- Twitter
+HOST-SUFFIX,static.ads-twitter.com
+HOST-SUFFIX,ads-api.twitter.com
+
+# --- LinkedIn
+HOST-SUFFIX,ads.linkedin.com
+HOST-SUFFIX,analytics.pointdrive.linkedin.com
+
+# --- Pinterest
+HOST-SUFFIX,ads.pinterest.com
+HOST-SUFFIX,log.pinterest.com
+HOST-SUFFIX,analytics.pinterest.com
+HOST-SUFFIX,trk.pinterest.com
+HOST-SUFFIX,widgets.pinterest.com
+
+# --- Reddit
+HOST-SUFFIX,events.reddit.com
+HOST-SUFFIX,events.redditmedia.com
+
+# --- YouTube
+HOST-SUFFIX,ads.youtube.com
+
+# --- TikTok
+HOST-SUFFIX,ads-api.tiktok.com
+HOST-SUFFIX,analytics.tiktok.com
+HOST-SUFFIX,ads-sg.tiktok.com
+HOST-SUFFIX,analytics-sg.tiktok.com
+HOST-SUFFIX,business-api.tiktok.com
+HOST-SUFFIX,ads.tiktok.com
+HOST-SUFFIX,log.byteoversea.com
+
+
+#============ Mix =============
+
+# --- Yahoo
+HOST-SUFFIX,ads.yahoo.com
+HOST-SUFFIX,analytics.yahoo.com
+HOST-SUFFIX,geo.yahoo.com
+HOST-SUFFIX,udc.yahoo.com
+HOST-SUFFIX,udcm.yahoo.com
+HOST-SUFFIX,analytics.query.yahoo.com
+HOST-SUFFIX,partnerads.ysm.yahoo.com
+HOST-SUFFIX,log.fc.yahoo.com
+HOST-SUFFIX,gemini.yahoo.com
+HOST-SUFFIX,adtech.yahooinc.com
+
+# --- Yandex
+HOST-SUFFIX,extmaps-api.yandex.net
+HOST-SUFFIX,appmetrica.yandex.ru
+HOST-SUFFIX,adfstat.yandex.ru
+HOST-SUFFIX,metrika.yandex.ru
+HOST-SUFFIX,offerwall.yandex.net
+HOST-SUFFIX,adfox.yandex.ru
+
+# --- Unity
+HOST-SUFFIX,auction.unityads.unity3d.com
+HOST-SUFFIX,webview.unityads.unity3d.com
+HOST-SUFFIX,config.unityads.unity3d.com
+HOST-SUFFIX,adserver.unityads.unity3d.com
+
+
+#============ OEMs ============
+
+# --- Realme
+HOST-SUFFIX,iot-eu-logser.realme.com
+HOST-SUFFIX,iot-logser.realme.com
+HOST-SUFFIX,bdapi-ads.realmemobile.com
+HOST-SUFFIX,bdapi-in-ads.realmemobile.com
+
+# --- Xiaomi
+HOST-SUFFIX,api.ad.xiaomi.com
+HOST-SUFFIX,data.mistat.xiaomi.com
+HOST-SUFFIX,data.mistat.india.xiaomi.com
+HOST-SUFFIX,data.mistat.rus.xiaomi.com
+HOST-SUFFIX,sdkconfig.ad.xiaomi.com
+HOST-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+HOST-SUFFIX,tracking.rus.miui.com
+
+# --- Oppo
+HOST-SUFFIX,adsfs.oppomobile.com
+HOST-SUFFIX,adx.ads.oppomobile.com
+HOST-SUFFIX,ck.ads.oppomobile.com
+HOST-SUFFIX,data.ads.oppomobile.com
+
+# --- Huawei
+HOST-SUFFIX,metrics.data.hicloud.com
+HOST-SUFFIX,metrics2.data.hicloud.com
+HOST-SUFFIX,grs.hicloud.com
+HOST-SUFFIX,logservice.hicloud.com
+HOST-SUFFIX,logservice1.hicloud.com
+HOST-SUFFIX,logbak.hicloud.com
+
+# --- OnePlus
+HOST-SUFFIX,click.oneplus.cn
+HOST-SUFFIX,open.oneplus.net
+
+# --- Samsung
+HOST-SUFFIX,samsungads.com
+HOST-SUFFIX,smetrics.samsung.com
+HOST-SUFFIX,nmetrics.samsung.com
+HOST-SUFFIX,samsung-com.112.2o7.net
+HOST-SUFFIX,analytics-api.samsunghealthcn.com
+
+# --- Apple
+HOST-SUFFIX,iadsdk.apple.com
+HOST-SUFFIX,metrics.icloud.com
+HOST-SUFFIX,metrics.mzstatic.com
+HOST-SUFFIX,api-adservices.apple.com
+HOST-SUFFIX,books-analytics-events.apple.com
+HOST-SUFFIX,weather-analytics-events.apple.com
+HOST-SUFFIX,notes-analytics-events.apple.com
+HOST-SUFFIX,mc.yandex.ru
+HOST-SUFFIX,amc.yandex.ru
+HOST-SUFFIX,mc.yandex.com
+HOST-SUFFIX,bs.yandex.ru
+HOST-SUFFIX,direct.yandex.ru
+HOST-SUFFIX,an.yandex.ru
+HOST-SUFFIX,an.yandex.
+HOST-SUFFIX,startup-mobile.ap.yandex-net
+HOST-SUFFIX,clck.yandex.com
+HOST-SUFFIX,googlesyndication.com
+HOST-SUFFIX,pagead2.googlesyndication.com
+HOST-SUFFIX,sentry.io
+HOST-SUFFIX,static.hotjar.com
+HOST-SUFFIX,trafficjunky.com
+HOST-SUFFIX,ei.phncdn.com
+HOST-SUFFIX,ad.mail.ru
+HOST-SUFFIX,cspreport.mail.ru
+HOST-SUFFIX,likemore-go.imgsmail.ru
+HOST-SUFFIX,rs.mail.ru
+HOST-SUFFIX,ads.yandex.com
+HOST-SUFFIX,googletagmanager.com
+HOST-SUFFIX,share.yandex.ru
+HOST-SUFFIX,banners-slb.mobile.yandex.net
+HOST-SUFFIX,banners.mobile.yandex.net
+HOST-SUFFIX,analytics.mobile.yandex.net
+HOST-SUFFIX,appmetrica.yandex.ru
+HOST-SUFFIX,appmetrica.yandex.com
+HOST-SUFFIX,analytics.mobile.yandex.net
+HOST-SUFFIX,report.appmetrica.yandex.net
+HOST-SUFFIX,startup.mobile.yandex.net
+HOST-SUFFIX,mobileads.google.com
+HOST-SUFFIX,ads.google.com
+HOST-SUFFIX,googleadservices.com
+HOST-SUFFIX,googleads.g.doubleclick.net
+HOST-SUFFIX,adservice.g.cn
+HOST-SUFFIX,2mdn.net
+HOST-SUFFIX,dmtry.com
+HOST-SUFFIX,google-analytics.com
+HOST-SUFFIX,crashlytics.com
+HOST-SUFFIX,target.my.com
+HOST-SUFFIX,adj.st
+HOST-SUFFIX,adjust.com
+HOST-SUFFIX,go.link
+HOST-SUFFIX,metrica.yandex.ru
+HOST-SUFFIX,applovin.com
+HOST-SUFFIX,applvn.com
+HOST-SUFFIX,adcolony.com
+HOST-SUFFIX,wd.adcolony.com
+HOST-SUFFIX,ads30.adcolony.com
+HOST-SUFFIX,adc3-launch.adcolony.com
+HOST-SUFFIX,events3alt.adcolony.com
+HOST-SUFFIX,hyprmx.com
+HOST-SUFFIX,adserver.unityads.unity3d.com
+HOST-SUFFIX,analytics.social.unity.com
+HOST-SUFFIX,api.uca.cloud.unity3d.com
+HOST-SUFFIX,auction.unityads.unity3d.com
+HOST-SUFFIX,cdn-highwinds.unityads.unity3d.com
+HOST-SUFFIX,cdn.unityads.unity3d.com
+HOST-SUFFIX,stats.unity3d.com
+HOST-SUFFIX,webview.unityads.unity3d.com
+HOST-SUFFIX,adservice.google.com
+HOST-SUFFIX,stats.g.doubleclick.net
+HOST-SUFFIX,ad.doubleclick.net
+HOST-SUFFIX,static.doubleclick.net
+HOST-SUFFIX,m.doubleclick.net
+HOST-SUFFIX,mediavisor.doubleclick.net
+HOST-SUFFIX,analytics.google.com
+HOST-SUFFIX,click.googleanalytics.com
+HOST-SUFFIX,notify.bugsnag.com
+HOST-SUFFIX,sessions.bugsnag.com
+HOST-SUFFIX,api.bugsnag.com
+HOST-SUFFIX,app.bugsnag.com
+HOST-SUFFIX,config.unityads.unity3d.com
+HOST-SUFFIX,extmaps-api.yandex.net
+HOST-SUFFIX,adfstat.yandex.ru
+HOST-SUFFIX,metrika.yandex.ru
+HOST-SUFFIX,offerwall.yandex.net
+HOST-SUFFIX,adfox.yandex.ru
+HOST-SUFFIX,browser.sentry-cdn.com
+HOST-SUFFIX,app.getsentry.com
+HOST-SUFFIX,adtago.s3.amazonaws.com
+HOST-SUFFIX,analyticsengine.s3.amazonaws.com
+HOST-SUFFIX,analytics.s3.amazonaws.com
+HOST-SUFFIX,advice-ads.s3.amazonaws.com
+HOST-SUFFIX,static.media.net
+HOST-SUFFIX,media.net
+HOST-SUFFIX,adservetx.media.net
+HOST-SUFFIX,adm.hotjar.com
+HOST-SUFFIX,identify.hotjar.com
+HOST-SUFFIX,insights.hotjar.com
+HOST-SUFFIX,script.hotjar.com
+HOST-SUFFIX,surveys.hotjar.com
+HOST-SUFFIX,careers.hotjar.com
+HOST-SUFFIX,events.hotjar.io
+HOST-SUFFIX,stats.wp.com
+HOST-SUFFIX,ads.pinterest.com
+HOST-SUFFIX,log.pinterest.com
+HOST-SUFFIX,analytics.pinterest.com
+HOST-SUFFIX,trk.pinterest.com
+HOST-SUFFIX,widgets.pinterest.com
+HOST-SUFFIX,ads-api.tiktok.com
+HOST-SUFFIX,analytics.tiktok.com
+HOST-SUFFIX,ads-sg.tiktok.com
+HOST-SUFFIX,analytics-sg.tiktok.com
+HOST-SUFFIX,business-api.tiktok.com
+HOST-SUFFIX,ads.tiktok.com
+HOST-SUFFIX,log.byteoversea.com
+HOST-SUFFIX,api.ad.xiaomi.com
+HOST-SUFFIX,data.mistat.xiaomi.com
+HOST-SUFFIX,data.mistat.india.xiaomi.com
+HOST-SUFFIX,data.mistat.rus.xiaomi.com
+HOST-SUFFIX,sdkconfig.ad.xiaomi.com
+HOST-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+HOST-SUFFIX,tracking.rus.miui.com
+HOST-SUFFIX,iadsdk.apple.com
+HOST-SUFFIX,metrics.icloud.com
+HOST-SUFFIX,metrics.mzstatic.com
+HOST-SUFFIX,api-adservices.apple.com
+HOST-SUFFIX,books-analytics-events.apple.com
+HOST-SUFFIX,weather-analytics-events.apple.com
+HOST-SUFFIX,notes-analytics-events.apple.com
+HOST-SUFFIX,ads.yahoo.com
+HOST-SUFFIX,analytics.yahoo.com
+HOST-SUFFIX,geo.yahoo.com
+HOST-SUFFIX,udc.yahoo.com
+HOST-SUFFIX,udcm.yahoo.com
+HOST-SUFFIX,analytics.query.yahoo.com
+HOST-SUFFIX,partnerads.ysm.yahoo.com
+HOST-SUFFIX,log.fc.yahoo.com
+HOST-SUFFIX,gemini.yahoo.com
+HOST-SUFFIX,adtech.yahooinc.com
+HOST-SUFFIX,events.reddit.com
+HOST-SUFFIX,events.redditmedia.com
+HOST-SUFFIX,mouseflow.com
+HOST-SUFFIX,cdn.mouseflow.com
+HOST-SUFFIX,o2.mouseflow.com
+HOST-SUFFIX,tools.mouseflow.com
+HOST-SUFFIX,cdn-test.mouseflow.com
+HOST-SUFFIX,freshmarketer.com
+HOST-SUFFIX,claritybt.freshmarketer.com
+HOST-SUFFIX,fwtracks.freshmarketer.com
+HOST-SUFFIX,luckyorange.com
+HOST-SUFFIX,api.luckyorange.com
+HOST-SUFFIX,realtime.luckyorange.com
+HOST-SUFFIX,cdn.luckyorange.com
+HOST-SUFFIX,w1.luckyorange.com
+HOST-SUFFIX,upload.luckyorange.net
+HOST-SUFFIX,cs.luckyorange.net
+HOST-SUFFIX,settings.luckyorange.net
+HOST-SUFFIX,ssl.google-analytics.com
+HOST-SUFFIX,pagead2.googleadservices.com
+HOST-SUFFIX,afs.googlesyndication.com
+HOST-SUFFIX,hicloud.com
+HOST-SUFFIX,dbankcloud.ru
+HOST-SUFFIX,dbankcloud.cn
+HOST-SUFFIX,dbankcloud.com
+HOST-SUFFIX,iot-eu-logser.realme.com
+HOST-SUFFIX,iot-logser.realme.com
+HOST-SUFFIX,bdapi-ads.realmemobile.com
+HOST-SUFFIX,bdapi-in-ads.realmemobile.com
+HOST-SUFFIX,metrics.data.hicloud.com
+HOST-SUFFIX,metrics2.data.hicloud.com
+HOST-SUFFIX,grs.hicloud.com
+HOST-SUFFIX,logservice.hicloud.com
+HOST-SUFFIX,logservice1.hicloud.com
+HOST-SUFFIX,logbak.hicloud.com
+HOST-SUFFIX,adsfs.oppomobile.com
+HOST-SUFFIX,adx.ads.oppomobile.com
+HOST-SUFFIX,ck.ads.oppomobile.com
+HOST-SUFFIX,data.ads.oppomobile.com
+HOST-SUFFIX,samsungads.com
+HOST-SUFFIX,smetrics.samsung.com
+HOST-SUFFIX,nmetrics.samsung.com
+HOST-SUFFIX,samsung-com.112.2o7.net
+HOST-SUFFIX,analytics-api.samsunghealthcn.com
+HOST-SUFFIX,click.oneplus.cn
+HOST-SUFFIX,open.oneplus.net
